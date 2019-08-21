@@ -10,10 +10,13 @@ This list is probably biased towards my current research directions. So, please,
 * [Multimodal](#multimodal)
 	* [Adaptation](#multimodal_adaptation)
 
+* [Unsupervised](#unsupervised)
+	* [Segmentation](#unsupervised_adaptation)
+
 <h2 id="multimodal">Multimodal</h2>
 <h3 id="multimodal_adaptation">Adaptation</h2>
 
-* Gupta A, Miao Y, Neves L, Metze F. [Visual features for context-aware speech recognition.] *ICASSP 2017* 
+* Gupta A, Miao Y, Neves L, Metze F. [Visual features for context-aware speech recognition.](https://arxiv.org/abs/1712.00489) *ICASSP 2017* 
 
 
 # Tutorials
@@ -23,6 +26,7 @@ This list is probably biased towards my current research directions. So, please,
 # Workshops
 
 # Datasets
+* great resource from @JRMeyer [here](https://github.com/JRMeyer/open-speech-corpora)
 * Sanabria R, Caglayan O, Palaskar S, Elliott D, Barrault L, Specia L, Metze F. [How2: a large-scale dataset for multimodal language understanding.](https://arxiv.org/pdf/1811.00347.pdf). *NIPS 2018 Workshop*. 
 
 
