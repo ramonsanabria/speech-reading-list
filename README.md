@@ -4,7 +4,14 @@ This reading list is mantained by [Ramon Sanabria](http://www.cs.cmu.edu/~ramons
 
 This list is probably biased towards my current research directions. So, please, if there is anythin missing, please let me know. Suggestions are super welcome :)
 
+<h1 id="content_table">Content Table</h1>
 
+* [Papers](#papers)
+* [Tutorials](#tutorials)
+* [Courses](#courses)
+* [Journals](#journals)
+* [Workshops](#workshops)
+* [Datasets](#datasets)
 
 <h1 id="papers">Papers</h1>
 
@@ -39,9 +46,9 @@ This list is probably biased towards my current research directions. So, please,
 <h2 id="unsupervised_representation">Representation</h2>
 * Kamper H, Jansen A, King S, Goldwater S. [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.7106&rep=rep1&type=pdf) **SLT 2014**
 
-# Tutorials
+<h1 id="tutorials">Tutorials</h1>
 
-# Courses
+<h1 id="courses">Courses</h1>
 * [The University of Edinburgh, AUTOMATIC SPEECH RECOGNITION](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
 
 # Journals
