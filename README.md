@@ -40,7 +40,7 @@ This list is probably biased towards my current research directions. So, please,
 <h2 id="unsupervised">Unsupervised</h2>
 <h3 id="unsupervised_segmentation">Segmentation</h2>
 
-* Kamper H, Jansen A, Goldwater S. [Fully unsupervised small-vocabulary speech recognition using a segmental bayesian model.](https://pdfs.semanticscholar.org/26f5/b704a3f1e0d8d7187c048ca48630553684b6.pdf) **iNTERSPEECH 2015**
+* Kamper H, Jansen A, Goldwater S. [Fully unsupervised small-vocabulary speech recognition using a segmental bayesian model.](https://pdfs.semanticscholar.org/26f5/b704a3f1e0d8d7187c048ca48630553684b6.pdf) **INTERSPEECH 2015**
 
 
 <h2 id="unsupervised_representation">Representation</h2>
