@@ -44,6 +44,7 @@ This list is probably biased towards my current research directions. So, please,
 
 
 <h2 id="unsupervised_representation">Representation</h2>
+
 * Kamper H, Jansen A, King S, Goldwater S. [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.7106&rep=rep1&type=pdf) **SLT 2014**
 
 <h1 id="tutorials">Tutorials</h1>
