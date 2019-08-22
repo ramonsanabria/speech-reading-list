@@ -49,14 +49,16 @@ This list is probably biased towards my current research directions. So, please,
 <h1 id="tutorials">Tutorials</h1>
 
 <h1 id="courses">Courses</h1>
+
 * [The University of Edinburgh, AUTOMATIC SPEECH RECOGNITION.](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
 
-# Journals
+<h1 id="journals">Journals</h1>
 
-# Workshops
+<h1 id="workshops">Workshops</h1>
 
 
-# Datasets
+<h1 id="datasets">Datasets</h1>
+
 * Great resource from [@_josh_meyer_](https://twitter.com/_josh_meyer_) [here](https://github.com/JRMeyer/open-speech-corpora)
 * Sanabria R, Caglayan O, Palaskar S, Elliott D, Barrault L, Specia L, Metze F. [How2: a large-scale dataset for multimodal language understanding.](https://arxiv.org/pdf/1811.00347.pdf). *NIPS 2018 Workshop*. 
 
