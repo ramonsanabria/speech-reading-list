@@ -14,17 +14,31 @@ This list is probably biased towards my current research directions. So, please,
 
 <h2 id="multimodal">Multimodal</h2>
 <h3 id="multimodal_adaptation">Adaptation</h2>
-* Gupta A, Miao Y, Neves L, Metze F. [Visual features for context-aware speech recognition.](https://arxiv.org/abs/1712.00489) *ICASSP 2017* 
+* Moriya Y, Jones GJ. [Multimodal Speaker Adaptation of Acoustic Model and Language Model for Asr Using Speaker Face Embedding.](https://ieeexplore.ieee.org/abstract/document/8683724) **ICASSP 2019** 
+* Caglayan O, Sanabria R, Palaskar S, Barraul L, Metze F. [Multimodal Grounding for Sequence-to-sequence Speech Recognition.](https://arxiv.org/pdf/1811.03865.pdf) **ICASSP 2019**
+* Palaskar S, Sanabria R, Metze F. [End-to-end multimodal speech recognition.](https://arxiv.org/abs/1804.09713) **ICASSP 2018**
+* Gupta A, Miao Y, Neves L, Metze F. [Visual features for context-aware speech recognition.](https://arxiv.org/abs/1712.00489) **ICASSP 2017** 
+* Sun F, Harwath D, Glass J. [Look, Listen, And Decode: Multimodal Speech Recognition With Images.](https://groups.csail.mit.edu/sls/publications/2016/FelixSun_SLT_2016.pdf) **ICASSP 2016**
 
+<h3 id="multimodal_representation">Representation</h2>
+
+<h3 id="multimodal_unsupervised">Unsupervised</h2>
+* Kamper H, Settle S, Shakhnarovich G, Livescu K. [Visually grounded learning of keyword prediction from untranscribed speech.](https://arxiv.org/pdf/1703.08136.pdf) **INTERSPEECH 2017**
 
 <h2 id="unsupervised">Unsupervised</h2>
 <h3 id="unsupervised_segmentation">Segmentation</h2>
+
+<h2 id="unsupervised">Representation Learning</h2>
+
 # Tutorials
 
 # Courses
 [The University of Edinburgh, AUTOMATIC SPEECH RECOGNITION](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
 
+# Journals
+
 # Workshops
+
 
 # Datasets
 * Great resource from [@_josh_meyer_](https://twitter.com/_josh_meyer_) [here](https://github.com/JRMeyer/open-speech-corpora)
