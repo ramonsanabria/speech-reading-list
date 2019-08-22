@@ -14,6 +14,7 @@ This list is probably biased towards my current research directions. So, please,
 
 <h2 id="multimodal">Multimodal</h2>
 <h3 id="multimodal_adaptation">Adaptation</h2>
+
 * Moriya Y, Jones GJ. [Multimodal Speaker Adaptation of Acoustic Model and Language Model for Asr Using Speaker Face Embedding.](https://ieeexplore.ieee.org/abstract/document/8683724) **ICASSP 2019** 
 * Caglayan O, Sanabria R, Palaskar S, Barraul L, Metze F. [Multimodal Grounding for Sequence-to-sequence Speech Recognition.](https://arxiv.org/pdf/1811.03865.pdf) **ICASSP 2019**
 * Palaskar S, Sanabria R, Metze F. [End-to-end multimodal speech recognition.](https://arxiv.org/abs/1804.09713) **ICASSP 2018**
