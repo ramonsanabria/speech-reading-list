@@ -49,7 +49,7 @@ This list is probably biased towards my current research directions. So, please,
 <h1 id="tutorials">Tutorials</h1>
 
 <h1 id="courses">Courses</h1>
-* [The University of Edinburgh, AUTOMATIC SPEECH RECOGNITION](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
+* [The University of Edinburgh, AUTOMATIC SPEECH RECOGNITION.](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
 
 # Journals
 
