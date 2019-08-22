@@ -5,14 +5,15 @@ This reading list is mantained by [Ramon Sanabria](http://www.cs.cmu.edu/~ramons
 This list is probably biased towards my current research directions. So, please, if there is anythin missing, please let me know. Suggestions are super welcome :)
 
 
-# Papers
+
+<h1 id="papers">Papers</h1>
 
 * [Multimodal](#multimodal)
 	* [Adaptation](#multimodal_adaptation)
 	* [Representation](#multimodal_adaptation)
-	* [Unsupervised](#unsupervised_adaptation)
+	* [Unsupervised](#multimodal_unsupervised)
 * [Unsupervised](#unsupervised)
-	* [Segmentation](#unsupervised_adaptation)
+	* [Segmentation](#unsupervised_segmentation)
 
 <h2 id="multimodal">Multimodal</h2>
 <h3 id="multimodal_adaptation">Adaptation</h2>
