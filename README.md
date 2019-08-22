@@ -9,6 +9,8 @@ This list is probably biased towards my current research directions. So, please,
 
 * [Multimodal](#multimodal)
 	* [Adaptation](#multimodal_adaptation)
+	* [Representation](#multimodal_adaptation)
+	* [Unsupervised](#unsupervised_adaptation)
 * [Unsupervised](#unsupervised)
 	* [Segmentation](#unsupervised_adaptation)
 
@@ -30,12 +32,16 @@ This list is probably biased towards my current research directions. So, please,
 <h2 id="unsupervised">Unsupervised</h2>
 <h3 id="unsupervised_segmentation">Segmentation</h2>
 
-<h2 id="unsupervised">Representation Learning</h2>
+* Kamper H, Jansen A, Goldwater S. [Fully unsupervised small-vocabulary speech recognition using a segmental bayesian model.](https://pdfs.semanticscholar.org/26f5/b704a3f1e0d8d7187c048ca48630553684b6.pdf) **Interspeech 2015**
+
+
+<h2 id="unsupervised_representation">Representation</h2>
+* Kamper H, Jansen A, King S, Goldwater S. [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.7106&rep=rep1&type=pdf) **SLT 2014**
 
 # Tutorials
 
 # Courses
-[The University of Edinburgh, AUTOMATIC SPEECH RECOGNITION](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
+* [The University of Edinburgh, AUTOMATIC SPEECH RECOGNITION](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
 
 # Journals
 
