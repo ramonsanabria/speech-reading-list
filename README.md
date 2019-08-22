@@ -24,6 +24,7 @@ This list is probably biased towards my current research directions. So, please,
 <h3 id="multimodal_representation">Representation</h2>
 
 <h3 id="multimodal_unsupervised">Unsupervised</h2>
+
 * Kamper H, Settle S, Shakhnarovich G, Livescu K. [Visually grounded learning of keyword prediction from untranscribed speech.](https://arxiv.org/pdf/1703.08136.pdf) **INTERSPEECH 2017**
 
 <h2 id="unsupervised">Unsupervised</h2>
