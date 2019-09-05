@@ -22,6 +22,7 @@ This list is probably biased towards my current research directions. So, please,
 	* [Other](#multimodal_other)
 * [Unsupervised](#unsupervised)
 	* [Segmentation](#unsupervised_segmentation)
+	* [Representation](#unsupervised_representation)
 	* [Other](#unsupervised_other)
 
 <h2 id="multimodal">Multimodal</h2>
@@ -52,7 +53,7 @@ This list is probably biased towards my current research directions. So, please,
 * Kamper H, Jansen A, Goldwater S. [Fully unsupervised small-vocabulary speech recognition using a segmental bayesian model.](https://pdfs.semanticscholar.org/26f5/b704a3f1e0d8d7187c048ca48630553684b6.pdf) **INTERSPEECH 2015**
 
 
-<h2 id="unsupervised_representation">Representation</h2>
+<h3 id="unsupervised_representation">Representation</h2>
 
 * Kamper H, Jansen A, King S, Goldwater S. [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.7106&rep=rep1&type=pdf) **SLT 2014**
 
