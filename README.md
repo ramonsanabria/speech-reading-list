@@ -37,6 +37,13 @@ This list is probably biased towards my current research directions. So, please,
 
 * Kamper H, Settle S, Shakhnarovich G, Livescu K. [Visually grounded learning of keyword prediction from untranscribed speech.](https://arxiv.org/pdf/1703.08136.pdf) **INTERSPEECH 2017**
 
+<h3 id="multimodal_other">Other (maybe not speech, but still relevant)</h2>
+
+* Shi H, Mao J, Gimpel K, Livescu K. [Visually Grounded Neural Syntax Acquisition.](https://arxiv.org/pdf/1906.02890.pdf) **arxiv**
+* Caglayan O, Madhyastha P, Specia L, Barrault L. [Probing the Need for Visual Context in Multimodal Machine Translation](https://arxiv.org/abs/1903.08678) **NAACL 2019**
+
+
+
 <h2 id="unsupervised">Unsupervised</h2>
 <h3 id="unsupervised_segmentation">Segmentation</h2>
 
