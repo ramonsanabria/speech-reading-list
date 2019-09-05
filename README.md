@@ -19,8 +19,10 @@ This list is probably biased towards my current research directions. So, please,
 	* [Adaptation](#multimodal_adaptation)
 	* [Representation](#multimodal_adaptation)
 	* [Unsupervised](#multimodal_unsupervised)
+	* [Other](#multimodal_other)
 * [Unsupervised](#unsupervised)
 	* [Segmentation](#unsupervised_segmentation)
+	* [Other](#unsupervised_other)
 
 <h2 id="multimodal">Multimodal</h2>
 <h3 id="multimodal_adaptation">Adaptation</h2>
@@ -53,6 +55,11 @@ This list is probably biased towards my current research directions. So, please,
 <h2 id="unsupervised_representation">Representation</h2>
 
 * Kamper H, Jansen A, King S, Goldwater S. [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.7106&rep=rep1&type=pdf) **SLT 2014**
+
+<h3 id="unsupervised_other">Other (maybe not speech, but still relevant)</h2>
+
+* Kawakami, K., Dyer, C. and Blunsom, P. [Learning to Discover, Ground and Use Words with Segmental Neural Language Models.](https://www.aclweb.org/anthology/P19-1645) **ACL 2019**
+* Kawakami, K., Dyer, C. and Blunsom, P. [Unsupervised Word Discovery with Segmental Neural Language Models](https://arxiv.org/pdf/1811.09353.pdf) **ACL 2019**
 
 <h1 id="tutorials">Tutorials</h1>
 
