@@ -20,10 +20,14 @@ This list is probably biased towards my current research directions. So, please,
 	* [Representation](#multimodal_adaptation)
 	* [Unsupervised](#multimodal_unsupervised)
 	* [Other](#multimodal_other)
+
 * [Unsupervised](#unsupervised)
 	* [Segmentation](#unsupervised_segmentation)
 	* [Representation](#unsupervised_representation)
 	* [Other](#unsupervised_other)
+
+* [Supervised](#supervised)
+	* [Acoustic Modeling](#supervised_am)
 
 <h2 id="multimodal">Multimodal</h2>
 <h3 id="multimodal_adaptation">Adaptation</h2>
@@ -36,8 +40,8 @@ This list is probably biased towards my current research directions. So, please,
 
 <h3 id="multimodal_representation">Representation</h2>
 
-* Pasad, Ankita, et al. "On the Contributions of Visual and Textual Supervision
-in Low-Resource Semantic Speech Retrieval" **INTERSPEECH 2019**
+* Pasad, Ankita, et al. [On the Contributions of Visual and Textual Supervision
+in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf) **INTERSPEECH 2019**
 
 
 <h3 id="multimodal_unsupervised">Unsupervised</h2>
@@ -65,6 +69,14 @@ in Low-Resource Semantic Speech Retrieval" **INTERSPEECH 2019**
 
 * Kawakami, K., Dyer, C. and Blunsom, P. [Learning to Discover, Ground and Use Words with Segmental Neural Language Models.](https://www.aclweb.org/anthology/P19-1645) **ACL 2019**
 * Kawakami, K., Dyer, C. and Blunsom, P. [Unsupervised Word Discovery with Segmental Neural Language Models](https://arxiv.org/pdf/1811.09353.pdf) **ACL 2019**
+
+<h2 id="supervised">Supervised</h2>
+<h3 id="supervised_am">Acoustic Modeling</h2>
+
+* Sperber, M., Niehues, J., Neubig, G., Stüker, S., Waibel, A. [Self-Attentional Acoustic Models](http://msperber.com/research/pdf/Sperber-Interspeech2018-SelfAttentionalAM.pdf) **INTERSPEECH 2018**
+* Zhou S, Dong L, Xu S, Xu B. [Syllable-Based Sequence-to-Sequence Speech Recognition with the Transformer in Mandarin Chinese] (https://arxiv.org/pdf/1804.10752.pdf) **INTERSPEECH 2018**
+* Dong L, Xu S, Xu B. [Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0005884.pdf)**ICASSP 2018**
+
 
 <h1 id="tutorials">Tutorials</h1>
 
