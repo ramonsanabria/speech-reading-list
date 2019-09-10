@@ -81,7 +81,7 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h4 id="supervised_am">Pretraining</h2>
 
 * Wiesner M, Renduchintala A, Watanabe S, Liu C, Dehak N, Khudanpur S. [Pretraining by Backtranslation for End-to-end ASR in Low-Resource Settings](https://arendu.github.io/images/PSDA_MMDA.pdf) **INTERSPEECH 2019**
-* Bansal S, Kamper H, Livescu K, Lopez A, Goldwater S. [Pre-training on high-resource speech recognition improves low-resource speech-to-text translation](https://arxiv.org/pdf/1809.01431.pdf). 
+* Bansal S, Kamper H, Livescu K, Lopez A, Goldwater S. [Pre-training on high-resource speech recognition improves low-resource speech-to-text translation](https://arxiv.org/pdf/1809.01431.pdf). **NAACL 2019**
 
 
 <h4 id="supervised_am">Augmentation</h2>
