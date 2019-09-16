@@ -24,6 +24,8 @@ This list is probably biased towards my current research directions. So, please,
 * [Unsupervised](#unsupervised)
 	* [Segmentation](#unsupervised_segmentation)
 	* [Representation](#unsupervised_representation)
+		* [High-level Representation](#unsupervised_representation_highlevel)
+		* [Low-level Representation](#unsupervised_representation_lowlevel)
 	* [Other](#unsupervised_other)
 
 * [Supervised](#supervised)
@@ -61,9 +63,16 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 * Kamper H, Jansen A, Goldwater S. [Fully unsupervised small-vocabulary speech recognition using a segmental bayesian model.](https://pdfs.semanticscholar.org/26f5/b704a3f1e0d8d7187c048ca48630553684b6.pdf) **INTERSPEECH 2015**
 
 
-<h3 id="unsupervised_representation">Representation</h2>
+<h3 id="unsupervised_representation">Representation</h3>
+
+<h4 id="unsupervised_representation_highlevel">High-level Representation</h4>
 
 * Kamper H, Jansen A, King S, Goldwater S. [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.7106&rep=rep1&type=pdf) **SLT 2014**
+
+<h4 id="unsupervised_representation_lowlevel">Low-level Representation</h4>
+
+
+* Pascual S, Ravanelli M, Serrà J, Bonafonte A, Bengio Y. [Learning problem-agnostic speech representations from multiple self-supervised tasks.](https://arxiv.org/pdf/1904.03416.pdf)
 
 <h3 id="unsupervised_other">Other (maybe not speech, but still relevant)</h2>
 
