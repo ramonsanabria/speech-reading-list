@@ -72,7 +72,7 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h4 id="unsupervised_representation_lowlevel">Low-level Representation</h4>
 
 
-* Pascual S, Ravanelli M, Serrà J, Bonafonte A, Bengio Y. [Learning problem-agnostic speech representations from multiple self-supervised tasks.](https://arxiv.org/pdf/1904.03416.pdf)
+* Pascual S, Ravanelli M, Serrà J, Bonafonte A, Bengio Y. [Learning problem-agnostic speech representations from multiple self-supervised tasks.](https://arxiv.org/pdf/1904.03416.pdf) **INTERSPEECH 2019**
 
 <h3 id="unsupervised_other">Other (maybe not speech, but still relevant)</h2>
 
