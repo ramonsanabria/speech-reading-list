@@ -73,6 +73,7 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h4 id="unsupervised_representation_lowlevel">Low-level Representation</h4>
 
 
+* Oord AV, Li Y, Vinyals O. [Representation learning with contrastive predictive coding.](https://arxiv.org/pdf/1807.03748.pdf) **NIPS 2019**
 * Chung YA, Hsu WN, Tang H, Glass J. [An unsupervised autoregressive model for speech representation learning.](https://arxiv.org/abs/1904.03240) **INTERSPEECH 2019**
 * Pascual S, Ravanelli M, Serrà J, Bonafonte A, Bengio Y. [Learning problem-agnostic speech representations from multiple self-supervised tasks.](https://arxiv.org/pdf/1904.03416.pdf) **INTERSPEECH 2019**
 
