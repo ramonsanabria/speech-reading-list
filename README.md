@@ -102,7 +102,6 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 ](https://arxiv.org/pdf/1904.08779.pdf) **INTERSPEECH 2019**
 
 
-
 <h1 id="tutorials">Tutorials</h1>
 
 <h1 id="courses">Courses</h1>
@@ -115,6 +114,7 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 
 <h1 id="datasets">Datasets</h1>
+
 * [Multimodal](#datasets_multimodal)
 * [Low-Resource](#datasets_lowresource)
 
