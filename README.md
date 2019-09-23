@@ -115,8 +115,15 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 
 <h1 id="datasets">Datasets</h1>
+* [Multimodal](#datasets_multimodal)
+* [Low-Resource](#datasets_lowresource)
 
 * Great resource from [@_josh_meyer_](https://twitter.com/_josh_meyer_) [here](https://github.com/JRMeyer/open-speech-corpora)
+
+<h1 id="datasets_lowresource">Low Resource</h1>
+* Guzmán F, Chen PJ, Ott M, Pino J, Lample G, Koehn P, Chaudhary V, Ranzato MA. [Two new evaluation datasets for low-resource machine translation: Nepali-English and Sinhala-English](https://arxiv.org/pdf/1811.00347.pdf). **EMNLP 2019**
+
+<h1 id="datasets_multimodal">Multimodal</h1>
 * Sanabria R, Caglayan O, Palaskar S, Elliott D, Barrault L, Specia L, Metze F. [How2: a large-scale dataset for multimodal language understanding.](https://arxiv.org/pdf/1811.00347.pdf). **NIPS 2018 Workshop**
 
 
