@@ -10,7 +10,6 @@ This list is probably biased towards my current research directions. So, please,
 * [Tutorials](#tutorials)
 * [Courses](#courses)
 * [Journals](#journals)
-* [Workshops](#workshops)
 * [Datasets](#datasets)
 
 <h1 id="papers">Papers</h1>
@@ -102,28 +101,30 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 ](https://arxiv.org/pdf/1904.08779.pdf) **INTERSPEECH 2019**
 
 
-<h1 id="tutorials">Tutorials</h1>
-
 <h1 id="courses">Courses</h1>
 
 * [The University of Edinburgh, AUTOMATIC SPEECH RECOGNITION.](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
 
 <h1 id="journals">Journals</h1>
 
-<h1 id="workshops">Workshops</h1>
 
 
 <h1 id="datasets">Datasets</h1>
 
 * [Multimodal](#datasets_multimodal)
 * [Low-Resource](#datasets_lowresource)
+* [Other](#datasets_other)
 
-* Great resource from [@_josh_meyer_](https://twitter.com/_josh_meyer_) [here](https://github.com/JRMeyer/open-speech-corpora)
 
-<h1 id="datasets_lowresource">Low Resource</h1>
+<h2 id="datasets_lowresource">Low Resource</h1>
+
 * Guzmán F, Chen PJ, Ott M, Pino J, Lample G, Koehn P, Chaudhary V, Ranzato MA. [Two new evaluation datasets for low-resource machine translation: Nepali-English and Sinhala-English](https://arxiv.org/pdf/1811.00347.pdf). **EMNLP 2019**
 
-<h1 id="datasets_multimodal">Multimodal</h1>
+<h2 id="datasets_multimodal">Multimodal</h1>
+
 * Sanabria R, Caglayan O, Palaskar S, Elliott D, Barrault L, Specia L, Metze F. [How2: a large-scale dataset for multimodal language understanding.](https://arxiv.org/pdf/1811.00347.pdf). **NIPS 2018 Workshop**
 
+<h2 id="datasets_other">Other</h1>
+
+* Great resource from [@_josh_meyer_](https://twitter.com/_josh_meyer_) [here](https://github.com/JRMeyer/open-speech-corpora)
 
