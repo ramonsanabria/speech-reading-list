@@ -28,11 +28,12 @@ This list is probably biased towards my current research directions. So, please,
 	* [Other](#unsupervised_other)
 
 * [Supervised](#supervised)
-	* [Acoustic Modeling](#supervised_am)
+	* [Acoustic Modelling](#supervised_am)
 		* [Transforemer_like](#supervised_am_transformerlike)
 		* [Pretraining](#supervised_am_pretraining)
 		* [Augmentation](#supervised_am_augmentation)
-
+	* [Language Modelling](#supervised_lm)
+		* [Transforemer_like](#supervised_lm_transformerlike)
 
 
 
@@ -88,23 +89,28 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 * Kawakami, K., Dyer, C. and Blunsom, P. [Unsupervised Word Discovery with Segmental Neural Language Models](https://arxiv.org/pdf/1811.09353.pdf) **ACL 2019**
 
 <h2 id="supervised">Supervised</h2>
-<h3 id="supervised_am">Acoustic Modeling</h2>
-<h4 id="supervised_am_transformerlike">Transformer-like</h2>
+<h3 id="supervised_am">Acoustic Modelling</h3>
+<h4 id="supervised_am_transformerlike">Transformer-like</h4>
 
 * Dong L, Xu S, Xu B. [Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0005884.pdf) **ICASSP 2018**
 * Sperber, M., Niehues, J., Neubig, G., Stüker, S., Waibel, A. [Self-Attentional Acoustic Models](http://msperber.com/research/pdf/Sperber-Interspeech2018-SelfAttentionalAM.pdf) **INTERSPEECH 2018**
 * Zhou S, Dong L, Xu S, Xu B. [Syllable-Based Sequence-to-Sequence Speech Recognition with the Transformer in Mandarin Chinese](https://arxiv.org/pdf/1804.10752.pdf) **INTERSPEECH 2018**
 
-<h4 id="supervised_am_pretraining">Pretraining</h2>
+<h4 id="supervised_am_pretraining">Pretraining</h4>
 
 * Wiesner M, Renduchintala A, Watanabe S, Liu C, Dehak N, Khudanpur S. [Pretraining by Backtranslation for End-to-end ASR in Low-Resource Settings](https://arendu.github.io/images/PSDA_MMDA.pdf) **INTERSPEECH 2019**
 * Bansal S, Kamper H, Livescu K, Lopez A, Goldwater S. [Pre-training on high-resource speech recognition improves low-resource speech-to-text translation](https://arxiv.org/pdf/1809.01431.pdf). **NAACL 2019**
 
 
-<h4 id="supervised_am_augmentation">Augmentation</h2>
+<h4 id="supervised_am_augmentation">Augmentation</h4>
 
 * Park DS, Chan W, Zhang Y, Chiu CC, Zoph B, Cubuk ED, Le QV. [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition
 ](https://arxiv.org/pdf/1904.08779.pdf) **INTERSPEECH 2019**
+
+
+<h3 id="supervised_lm">Language Modelling</h3>
+
+<h4 id="supervised_am_transformerlike">Transformer-like</h4>
 
 
 <h1 id="courses">Courses</h1>
