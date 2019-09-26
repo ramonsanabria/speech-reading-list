@@ -1,5 +1,4 @@
-# Speech Resource List
-
+# Speech Resource List 
 This resource list is mantained by [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/), [Edinburgh NLP](https://edinburghnlp.inf.ed.ac.uk/) and [The Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/), [The University of Edinburgh](https://www.ed.ac.uk/). Ex [Language Technologies Institute](https://www.lti.cs.cmu.edu/) and [Robotics Institute](https://www.ri.cmu.edu/), [CMU](https://www.cmu.edu/). 
 
 This list is probably biased towards my current research directions. So, please, if there is anythin missing, please let me know. Suggestions are super welcome :)
@@ -18,6 +17,7 @@ This list is probably biased towards my current research directions. So, please,
 	* [Adaptation](#multimodal_adaptation)
 	* [Representation](#multimodal_adaptation)
 	* [Unsupervised](#multimodal_unsupervised)
+	* [Zero-shot](#multimodal_zeroshot)
 	* [Other](#multimodal_other)
 
 * [Unsupervised](#unsupervised)
@@ -36,6 +36,9 @@ This list is probably biased towards my current research directions. So, please,
 		* [Transforemer_like](#supervised_lm_transformerlike)
 
 
+* [Zero-shot](#zeroshot)
+	* [Keyword Spotting](#zeroshot_keywordspotting)
+	
 
 <h2 id="multimodal">Multimodal</h2>
 <h3 id="multimodal_adaptation">Adaptation</h2>
@@ -85,8 +88,7 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 <h3 id="unsupervised_other">Other (maybe not speech, but still relevant)</h2>
 
-* Kawakami, K., Dyer, C. and Blunsom, P. [Learning to Discover, Ground and Use Words with Segmental Neural Language Models.](https://www.aclweb.org/anthology/P19-1645) **ACL 2019**
-* Kawakami, K., Dyer, C. and Blunsom, P. [Unsupervised Word Discovery with Segmental Neural Language Models](https://arxiv.org/pdf/1811.09353.pdf) **ACL 2019**
+* Kawakami, K., Dyer, C. and Blunsom, P. [Learning to Discover, Ground and Use Words with Segmental Neural Language Models.](https://www.aclweb.org/anthology/P19-1645) **ACL 2019** * Kawakami, K., Dyer, C. and Blunsom, P. [Unsupervised Word Discovery with Segmental Neural Language Models](https://arxiv.org/pdf/1811.09353.pdf) **ACL 2019**
 
 <h2 id="supervised">Supervised</h2>
 <h3 id="supervised_am">Acoustic Modelling</h3>
@@ -112,6 +114,11 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 <h4 id="supervised_am_transformerlike">Transformer-like</h4>
 
+<h2 id="zeroshot">Zero-shot</h2>
+
+* Menon R, Kamper H, van der Westhuizen E, Quinn J, Niesler T. [Feature exploration for almost zero-resource ASR-free keyword spotting using a multilingual bottleneck extractor and correspondence autoencoders.](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1665.pdf) **INTERSPEECH 2019**
+
+<h3 id="zeroshot_keywordspotting">Keyword Spotting</h3>
 
 <h1 id="courses">Courses</h1>
 
