@@ -43,11 +43,11 @@ This list is probably biased towards my current research directions. So, please,
 <h2 id="multimodal">Multimodal</h2>
 <h3 id="multimodal_adaptation">Adaptation</h2>
 
-* Moriya Y, Jones GJ. [Multimodal Speaker Adaptation of Acoustic Model and Language Model for Asr Using Speaker Face Embedding.](https://ieeexplore.ieee.org/abstract/document/8683724) **ICASSP 2019** 
-* Caglayan O, Sanabria R, Palaskar S, Barraul L, Metze F. [Multimodal Grounding for Sequence-to-sequence Speech Recognition.](https://arxiv.org/pdf/1811.03865.pdf) **ICASSP 2019**
-* Palaskar S, Sanabria R, Metze F. [End-to-end multimodal speech recognition.](https://arxiv.org/abs/1804.09713) **ICASSP 2018**
-* Gupta A, Miao Y, Neves L, Metze F. [Visual features for context-aware speech recognition.](https://arxiv.org/abs/1712.00489) **ICASSP 2017** 
-* Sun F, Harwath D, Glass J. [Look, Listen, And Decode: Multimodal Speech Recognition With Images.](https://groups.csail.mit.edu/sls/publications/2016/FelixSun_SLT_2016.pdf) **ICASSP 2016**
+* Moriya Y, Jones GJ. [Multimodal Speaker Adaptation of Acoustic Model and Language Model for Asr Using Speaker Face Embedding](https://ieeexplore.ieee.org/abstract/document/8683724) **ICASSP 2019** 
+* Caglayan O, Sanabria R, Palaskar S, Barraul L, Metze F. [Multimodal Grounding for Sequence-to-sequence Speech Recognition](https://arxiv.org/pdf/1811.03865.pdf) **ICASSP 2019**
+* Palaskar S, Sanabria R, Metze F. [End-to-end multimodal speech recognition](https://arxiv.org/abs/1804.09713) **ICASSP 2018**
+* Gupta A, Miao Y, Neves L, Metze F. [Visual features for context-aware speech recognition](https://arxiv.org/abs/1712.00489) **ICASSP 2017** 
+* Sun F, Harwath D, Glass J. [Look, Listen, And Decode: Multimodal Speech Recognition With Images](https://groups.csail.mit.edu/sls/publications/2016/FelixSun_SLT_2016.pdf) **ICASSP 2016**
 
 <h3 id="multimodal_representation">Representation</h2>
 
@@ -58,11 +58,11 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 <h3 id="multimodal_unsupervised">Unsupervised</h2>
 
-* Kamper H, Settle S, Shakhnarovich G, Livescu K. [Visually grounded learning of keyword prediction from untranscribed speech.](https://arxiv.org/pdf/1703.08136.pdf) **INTERSPEECH 2017**
+* Kamper H, Settle S, Shakhnarovich G, Livescu K. [Visually grounded learning of keyword prediction from untranscribed speech](https://arxiv.org/pdf/1703.08136.pdf) **INTERSPEECH 2017**
 
 <h3 id="multimodal_other">Other (maybe not speech, but still relevant)</h2>
 
-* Shi H, Mao J, Gimpel K, Livescu K. [Visually Grounded Neural Syntax Acquisition.](https://arxiv.org/pdf/1906.02890.pdf) **arxiv**
+* Shi H, Mao J, Gimpel K, Livescu K. [Visually Grounded Neural Syntax Acquisition](https://arxiv.org/pdf/1906.02890.pdf) **arxiv**
 * Caglayan O, Madhyastha P, Specia L, Barrault L. [Probing the Need for Visual Context in Multimodal Machine Translation](https://arxiv.org/abs/1903.08678) **NAACL 2019**
 
 
@@ -70,7 +70,7 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h2 id="unsupervised">Unsupervised</h2>
 <h3 id="unsupervised_segmentation">Segmentation</h2>
 
-* Kamper H, Jansen A, Goldwater S. [Fully unsupervised small-vocabulary speech recognition using a segmental bayesian model.](https://pdfs.semanticscholar.org/26f5/b704a3f1e0d8d7187c048ca48630553684b6.pdf) **INTERSPEECH 2015**
+* Kamper H, Jansen A, Goldwater S. [Fully unsupervised small-vocabulary speech recognition using a segmental bayesian model](https://pdfs.semanticscholar.org/26f5/b704a3f1e0d8d7187c048ca48630553684b6.pdf) **INTERSPEECH 2015**
 
 
 <h3 id="unsupervised_representation">Representation</h3>
@@ -82,9 +82,10 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h4 id="unsupervised_representation_lowlevel">Low-level Representation</h4>
 
 
-* Oord AV, Li Y, Vinyals O. [Representation learning with contrastive predictive coding.](https://arxiv.org/pdf/1807.03748.pdf) **NIPS 2019**
-* Chung YA, Hsu WN, Tang H, Glass J. [An unsupervised autoregressive model for speech representation learning.](https://arxiv.org/abs/1904.03240) **INTERSPEECH 2019**
-* Pascual S, Ravanelli M, Serrà J, Bonafonte A, Bengio Y. [Learning problem-agnostic speech representations from multiple self-supervised tasks.](https://arxiv.org/pdf/1904.03416.pdf) **INTERSPEECH 2019**
+* Oord AV, Li Y, Vinyals O. [Representation learning with contrastive predictive coding](https://arxiv.org/pdf/1807.03748.pdf) **NIPS 2019**
+* Chung YA, Hsu WN, Tang H, Glass J. [An unsupervised autoregressive model for speech representation learning](https://arxiv.org/abs/1904.03240) **INTERSPEECH 2019**
+* Pascual S, Ravanelli M, Serrà J, Bonafonte A, Bengio Y. [Learning problem-agnostic speech representations from multiple self-supervised tasks](https://arxiv.org/pdf/1904.03416.pdf) **INTERSPEECH 2019**
+
 
 <h3 id="unsupervised_other">Other (maybe not speech, but still relevant)</h2>
 
@@ -116,13 +117,13 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 <h2 id="zeroshot">Zero-shot</h2>
 
-* Menon R, Kamper H, van der Westhuizen E, Quinn J, Niesler T. [Feature exploration for almost zero-resource ASR-free keyword spotting using a multilingual bottleneck extractor and correspondence autoencoders.](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1665.pdf) **INTERSPEECH 2019**
+* Menon R, Kamper H, van der Westhuizen E, Quinn J, Niesler T. [Feature exploration for almost zero-resource ASR-free keyword spotting using a multilingual bottleneck extractor and correspondence autoencoders](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1665.pdf) **INTERSPEECH 2019**
 
 <h3 id="zeroshot_keywordspotting">Keyword Spotting</h3>
 
 <h1 id="courses">Courses</h1>
 
-* [The University of Edinburgh, AUTOMATIC SPEECH RECOGNITION.](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
+* [The University of Edinburgh, AUTOMATIC SPEECH RECOGNITION](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
 
 <h1 id="journals">Journals</h1>
 
@@ -137,11 +138,11 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 <h2 id="datasets_lowresource">Low Resource</h1>
 
-* Guzmán F, Chen PJ, Ott M, Pino J, Lample G, Koehn P, Chaudhary V, Ranzato MA. [Two new evaluation datasets for low-resource machine translation: Nepali-English and Sinhala-English](https://arxiv.org/pdf/1811.00347.pdf). **EMNLP 2019**
+* Guzmán F, Chen PJ, Ott M, Pino J, Lample G, Koehn P, Chaudhary V, Ranzato MA. [Two new evaluation datasets for low-resource machine translation: Nepali-English and Sinhala-English](https://arxiv.org/pdf/1811.00347.pdf) **EMNLP 2019**
 
 <h2 id="datasets_multimodal">Multimodal</h1>
 
-* Sanabria R, Caglayan O, Palaskar S, Elliott D, Barrault L, Specia L, Metze F. [How2: a large-scale dataset for multimodal language understanding.](https://arxiv.org/pdf/1811.00347.pdf). **NIPS 2018 Workshop**
+* Sanabria R, Caglayan O, Palaskar S, Elliott D, Barrault L, Specia L, Metze F. [How2: a large-scale dataset for multimodal language understanding](https://arxiv.org/pdf/1811.00347.pdf) **NIPS 2018 Workshop**
 
 <h2 id="datasets_other">Other</h1>
 
