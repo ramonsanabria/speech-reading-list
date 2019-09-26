@@ -35,8 +35,8 @@ This list is probably biased towards my current research directions. So, please,
 	* [Language Modelling](#supervised_lm)
 		* [Transforemer_like](#supervised_lm_transformerlike)
 
-
 * [Zero-shot](#zeroshot)
+	* [Acoustic Modelling](#zeroshot_am)
 	* [Keyword Spotting](#zeroshot_keywordspotting)
 	
 
