@@ -138,7 +138,6 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 <h1 id="datasets">Datasets</h1>
 
-* [Multimodal](#datasets_multimodal)
 * [Speech Recognition](#datasets_asr)
 	* [Low-Resource](#datasets_asr_lowresource)
 * [Speech To Translation](#datasets_st)
@@ -147,6 +146,7 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 * [Machine Translation](#datasets_mt)
 	* [Low-Resource](#datasets_mt_lowresource)
 	* [High-Resource](#datasets_mt_highresource)
+* [Multimodal](#datasets_multimodal)
 * [Other](#datasets_other)
 
 <h2 id="datasets_asr">Speech Recognition</h2>
@@ -165,7 +165,7 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h3 id="datasets_st_highresource">High Resource</h3>
 
 * Di Gangi MA, Cattoni R, Bentivogli L, Negri M, Turchi M. [MuST-C: a Multilingual Speech Translation Corpus.](https://www.aclweb.org/anthology/N19-1202) **NAACL 2019** 
-* Salesky E, Burger S, Niehues J, Waibel A. (Towards fluent translations from disfluent speech.)[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8639661] **SLT 2018**
+* Salesky E, Burger S, Niehues J, Waibel A. [Towards fluent translations from disfluent speech.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8639661) **SLT 2018**
 * Post M, Kumar G, Lopez A, Karakos D, Callison-Burch C, Khudanpur S. [Improved speech-to-text translation with the Fisher and Callhome Spanish–English speech translation corpus.](http://www.mt-archive.info/10/IWSLT-2013-Post.pdf) **IWSLT 2013**
 
 
