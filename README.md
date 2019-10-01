@@ -139,14 +139,41 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h1 id="datasets">Datasets</h1>
 
 * [Multimodal](#datasets_multimodal)
-* [Low-Resource](#datasets_lowresource)
+* [Speech Recognition](#datasets_asr)
+	* [Low-Resource](#datasets_asr_lowresource)
+* [Speech To Translation](#datasets_st)
+	* [Low-Resource](#datasets_st_lowresource)
+	* [High-Resource](#datasets_st_highresource)
+* [Machine Translation](#datasets_mt)
+	* [Low-Resource](#datasets_mt_lowresource)
+	* [High-Resource](#datasets_mt_highresource)
 * [Other](#datasets_other)
 
+<h2 id="datasets_asr">Speech Recognition</h2>
 
-<h2 id="datasets_lowresource">Low Resource</h1>
+<h3 id="datasets_asr_lowresource">Low Resource</h3>
+
+* Black AW. [CMU Wilderness Multilingual Speech Dataset.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8683536) **ICASSP 2019**
+
+<h2 id="datasets_st">Speech To Translation</h2>
+
+<h3 id="datasets_st_lowresource">Low Resource</h3>
+
+* Boito MZ, Havard WN, Garnerin M, Ferrand ÉL, Besacier L. [MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible.](https://arxiv.org/pdf/1907.12895.pdf) **arXiv 2019**
+* Godard P, Adda G, Adda-Decker M, Benjumea J, Besacier L, Cooper-Leavitt J, Kouarata GN, Lamel L, Maynard H, Müller M, Rialland A. [A very low resource language speech corpus for computational language documentation experiments.](https://arxiv.org/abs/1710.03501) **LREC 2018**
+
+<h3 id="datasets_st_highresource">High Resource</h3>
+
+* Salesky E, Burger S, Niehues J, Waibel A. (Towards fluent translations from disfluent speech.)[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8639661] **SLT 2018**
+* Post M, Kumar G, Lopez A, Karakos D, Callison-Burch C, Khudanpur S. [Improved speech-to-text translation with the Fisher and Callhome Spanish–English speech translation corpus.](http://www.mt-archive.info/10/IWSLT-2013-Post.pdf) **IWSLT 2013**
+
+
+<h2 id="datasets_st">Machine Translation</h2>
+
+<h3 id="datasets_lowresource">Low Resource</h3>
 
 * Guzmán F, Chen PJ, Ott M, Pino J, Lample G, Koehn P, Chaudhary V, Ranzato MA. [Two new evaluation datasets for low-resource machine translation: Nepali-English and Sinhala-English](https://arxiv.org/pdf/1811.00347.pdf) **EMNLP 2019**
-* Boito MZ, Havard WN, Garnerin M, Ferrand ÉL, Besacier L. [MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible.](https://arxiv.org/pdf/1907.12895.pdf) **arXiv**
+
 
 <h2 id="datasets_multimodal">Multimodal</h1>
 
