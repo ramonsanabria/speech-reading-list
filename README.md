@@ -146,6 +146,7 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h2 id="datasets_lowresource">Low Resource</h1>
 
 * Guzmán F, Chen PJ, Ott M, Pino J, Lample G, Koehn P, Chaudhary V, Ranzato MA. [Two new evaluation datasets for low-resource machine translation: Nepali-English and Sinhala-English](https://arxiv.org/pdf/1811.00347.pdf) **EMNLP 2019**
+* Boito MZ, Havard WN, Garnerin M, Ferrand ÉL, Besacier L. [MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible.](https://arxiv.org/pdf/1907.12895.pdf) **arXiv**
 
 <h2 id="datasets_multimodal">Multimodal</h1>
 
