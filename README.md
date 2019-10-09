@@ -132,6 +132,10 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h2 id="papers_st">Speech Translation</h2>
 
 * [Supervised](#papers_st_supervised)
+
+* Inaguma H, Duh K, Kawahara T, Watanabe S. [Multilingual End-to-End Speech Translation](https://arxiv.org/pdf/1910.00254.pdf) **arXiv 2019**
+
+
 * [Unsupervised](#papers_st_unsupervised)
 
 
