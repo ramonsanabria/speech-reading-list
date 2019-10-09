@@ -6,12 +6,17 @@ This list is probably biased towards my current research directions. So, please,
 <h1 id="content_table">Content Table</h1>
 
 * [Papers](#papers)
+	* [Speech Processing and Recognition](#papers_asr)
+	* [Speech Translation](#papers_st)
+	* [Machine Translation](#papers_mt)
+	* [Others](#papers_others)
 * [Tutorials](#tutorials)
 * [Courses](#courses)
 * [Journals](#journals)
 * [Datasets](#datasets)
 
 <h1 id="papers">Papers</h1>
+<h2 id="papers">Speech Processing and Recognition</h2>
 
 * [Multimodal](#multimodal)
 	* [Adaptation](#multimodal_adaptation)
@@ -39,9 +44,12 @@ This list is probably biased towards my current research directions. So, please,
 	* [Acoustic Modelling](#zeroshot_am)
 	* [Keyword Spotting](#zeroshot_keywordspotting)
 	
+<h2 id="papers_st">Speech Translation</h2>
+<h2 id="papers_mt">Machine Translation</h2>
+<h2 id="papers_others">Others</h2>
 
-<h2 id="multimodal">Multimodal</h2>
-<h3 id="multimodal_adaptation">Adaptation</h2>
+<h3 id="papers_asr_multimodal">Multimodal</h3>
+<h4 id="papers_asr_multimodal_adaptation">Adaptation</h4>
 
 * Moriya Y, Jones GJ. [Multimodal Speaker Adaptation of Acoustic Model and Language Model for Asr Using Speaker Face Embedding](https://ieeexplore.ieee.org/abstract/document/8683724) **ICASSP 2019** 
 * Caglayan O, Sanabria R, Palaskar S, Barraul L, Metze F. [Multimodal Grounding for Sequence-to-sequence Speech Recognition](https://arxiv.org/pdf/1811.03865.pdf) **ICASSP 2019**
@@ -49,18 +57,18 @@ This list is probably biased towards my current research directions. So, please,
 * Gupta A, Miao Y, Neves L, Metze F. [Visual features for context-aware speech recognition](https://arxiv.org/abs/1712.00489) **ICASSP 2017** 
 * Sun F, Harwath D, Glass J. [Look, Listen, And Decode: Multimodal Speech Recognition With Images](https://groups.csail.mit.edu/sls/publications/2016/FelixSun_SLT_2016.pdf) **ICASSP 2016**
 
-<h3 id="multimodal_representation">Representation</h2>
+<h4 id="papers_asr_multimodal_representation">Representation</h4>
 
 * Pasad, Ankita, et al. [On the Contributions of Visual and Textual Supervision
 in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf) **INTERSPEECH 2019**
 * Owens A, Wu J, McDermott JH, Freeman WT, Torralba A. [Learning sight from sound: Ambient sound provides supervision for visual learning.](https://arxiv.org/pdf/1712.07271.pdf) **IJCV 2018**
 
 
-<h3 id="multimodal_unsupervised">Unsupervised</h2>
+<h4 id="papers_asr_multimodal_unsupervised">Unsupervised</h4>
 
 * Kamper H, Settle S, Shakhnarovich G, Livescu K. [Visually grounded learning of keyword prediction from untranscribed speech](https://arxiv.org/pdf/1703.08136.pdf) **INTERSPEECH 2017**
 
-<h3 id="multimodal_other">Other (maybe not speech, but still relevant)</h2>
+<h4 id="multimodal_other">Other (maybe not speech, but still relevant)</h2>
 
 * Shi H, Mao J, Gimpel K, Livescu K. [Visually Grounded Neural Syntax Acquisition](https://arxiv.org/pdf/1906.02890.pdf) **arxiv**
 * Caglayan O, Madhyastha P, Specia L, Barrault L. [Probing the Need for Visual Context in Multimodal Machine Translation](https://arxiv.org/abs/1903.08678) **NAACL 2019**
