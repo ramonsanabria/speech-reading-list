@@ -23,7 +23,8 @@ This list is probably biased towards my current research directions. So, please,
 	* [Representation](#papers_asr_multimodal_adaptation)
 	* [Unsupervised](#papers_asr_multimodal_unsupervised)
 	* [Zero-shot](#papers_asr_multimodal_zeroshot)
-	* [Other](#papers_asr_multimodal_other)
+		* [Acoustic Modelling](#papers_asr_multimodal_zeroshot_am)
+		* [Key-word Spottig](#papers_asr_zeroshot_keywordspotting)
 
 * [Unsupervised](#papers_asr_unsupervised)
 	* [Segmentation](#papers_asr_unsupervised_segmentation)
@@ -99,28 +100,28 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 * Sperber, M., Niehues, J., Neubig, G., Stüker, S., Waibel, A. [Self-Attentional Acoustic Models](http://msperber.com/research/pdf/Sperber-Interspeech2018-SelfAttentionalAM.pdf) **INTERSPEECH 2018**
 * Zhou S, Dong L, Xu S, Xu B. [Syllable-Based Sequence-to-Sequence Speech Recognition with the Transformer in Mandarin Chinese](https://arxiv.org/pdf/1804.10752.pdf) **INTERSPEECH 2018**
 
-<h4 id="supervised_am_pretraining">Pretraining</h4>
+<h4 id="papers_asr_supervised_am_pretraining">Pretraining</h4>
 
 * Wiesner M, Renduchintala A, Watanabe S, Liu C, Dehak N, Khudanpur S. [Pretraining by Backtranslation for End-to-end ASR in Low-Resource Settings](https://arendu.github.io/images/PSDA_MMDA.pdf) **INTERSPEECH 2019**
 * Bansal S, Kamper H, Livescu K, Lopez A, Goldwater S. [Pre-training on high-resource speech recognition improves low-resource speech-to-text translation](https://arxiv.org/pdf/1809.01431.pdf). **NAACL 2019**
 
 
-<h4 id="supervised_am_augmentation">Augmentation</h4>
+<h4 id="papers_asr_supervised_am_augmentation">Augmentation</h4>
 
 * Park DS, Chan W, Zhang Y, Chiu CC, Zoph B, Cubuk ED, Le QV. [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition
 ](https://arxiv.org/pdf/1904.08779.pdf) **INTERSPEECH 2019**
 
 
-<h3 id="zeroshot">Zero-shot</h3>
+<h3 id="papers_asr_zeroshot">Zero-shot</h3>
 
-<h4 id="zeroshot_am">Acoustic Modelling</h3>
+<h4 id="papers_asr_zeroshot_am">Acoustic Modelling</h4>
 
 
 * Prasad M, van Esch D, Ritchie S, Mortensen JF. [Building Large-Vocabulary ASR Systems for Languages Without Any Audio Training Data](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1775.pdf)
 **INTERSPEECH 2019**
 
 
-<h3 id="zeroshot_keywordspotting">Keyword Spotting</h3>
+<h4 id="papers_asr_zeroshot_keywordspotting">Keyword Spotting</h4>
 
 * Menon R, Kamper H, van der Westhuizen E, Quinn J, Niesler T. [Feature exploration for almost zero-resource ASR-free keyword spotting using a multilingual bottleneck extractor and correspondence autoencoders](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1665.pdf) **INTERSPEECH 2019**
 
