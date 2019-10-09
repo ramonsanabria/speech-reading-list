@@ -16,33 +16,32 @@ This list is probably biased towards my current research directions. So, please,
 * [Datasets](#datasets)
 
 <h1 id="papers">Papers</h1>
-<h2 id="papers">Speech Processing and Recognition</h2>
+<h2 id="papers_asr">Speech Processing and Recognition</h2>
 
-* [Multimodal](#multimodal)
-	* [Adaptation](#multimodal_adaptation)
-	* [Representation](#multimodal_adaptation)
-	* [Unsupervised](#multimodal_unsupervised)
-	* [Zero-shot](#multimodal_zeroshot)
-	* [Other](#multimodal_other)
+* [Multimodal](#papers_asr_multimodal)
+	* [Adaptation](#papers_asr_multimodal_adaptation)
+	* [Representation](#papers_asr_multimodal_adaptation)
+	* [Unsupervised](#papers_asr_multimodal_unsupervised)
+	* [Zero-shot](#papers_asr_multimodal_zeroshot)
+	* [Other](#papers_asr_multimodal_other)
 
-* [Unsupervised](#unsupervised)
-	* [Segmentation](#unsupervised_segmentation)
-	* [Representation](#unsupervised_representation)
-		* [High-level Representation](#unsupervised_representation_highlevel)
-		* [Low-level Representation](#unsupervised_representation_lowlevel)
-	* [Other](#unsupervised_other)
+* [Unsupervised](#papers_asr_unsupervised)
+	* [Segmentation](#papers_asr_unsupervised_segmentation)
+	* [Representation](#papers_asr_unsupervised_representation)
+		* [High-level Representation](#papers_asr_unsupervised_representation_highlevel)
+		* [Low-level Representation](#papers_asr_unsupervised_representation_lowlevel)
 
 * [Supervised](#supervised)
-	* [Acoustic Modelling](#supervised_am)
-		* [Transforemer_like](#supervised_am_transformerlike)
-		* [Pretraining](#supervised_am_pretraining)
-		* [Augmentation](#supervised_am_augmentation)
-	* [Language Modelling](#supervised_lm)
-		* [Transforemer_like](#supervised_lm_transformerlike)
+	* [Acoustic Modelling](#papers_asr_supervised_am)
+		* [Transforemer_like](#papers_asr_supervised_am_transformerlike)
+		* [Pretraining](#papers_asr_supervised_am_pretraining)
+		* [Augmentation](#papers_asr_supervised_am_augmentation)
+	* [Language Modelling](#papers_asr_supervised_lm)
+		* [Transforemer_like](#papers_asr_supervised_lm_transformerlike)
 
 * [Zero-shot](#zeroshot)
-	* [Acoustic Modelling](#zeroshot_am)
-	* [Keyword Spotting](#zeroshot_keywordspotting)
+	* [Acoustic Modelling](#papers_asr_zeroshot_am)
+	* [Keyword Spotting](#papers_asr_zeroshot_keywordspotting)
 	
 
 <h3 id="papers_asr_multimodal">Multimodal</h3>
@@ -116,7 +115,7 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 <h4 id="supervised_am_transformerlike">Transformer-like</h4>
 
-<h2 id="zeroshot">Zero-shot</h2>
+<h3 id="zeroshot">Zero-shot</h3>
 
 <h3 id="zeroshot_am">Acoustic Modelling</h3>
 
