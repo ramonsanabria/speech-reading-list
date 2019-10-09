@@ -44,9 +44,6 @@ This list is probably biased towards my current research directions. So, please,
 	* [Acoustic Modelling](#zeroshot_am)
 	* [Keyword Spotting](#zeroshot_keywordspotting)
 	
-<h2 id="papers_st">Speech Translation</h2>
-<h2 id="papers_mt">Machine Translation</h2>
-<h2 id="papers_others">Others</h2>
 
 <h3 id="papers_asr_multimodal">Multimodal</h3>
 <h4 id="papers_asr_multimodal_adaptation">Adaptation</h4>
@@ -75,19 +72,19 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 
 
-<h2 id="unsupervised">Unsupervised</h2>
-<h3 id="unsupervised_segmentation">Segmentation</h2>
+<h3 id="papers_asr_unsupervised">Unsupervised</h3>
+<h3 id="papers_asr_unsupervised_segmentation">Segmentation</h3>
 
 * Kamper H, Jansen A, Goldwater S. [Fully unsupervised small-vocabulary speech recognition using a segmental bayesian model](https://pdfs.semanticscholar.org/26f5/b704a3f1e0d8d7187c048ca48630553684b6.pdf) **INTERSPEECH 2015**
 
 
-<h3 id="unsupervised_representation">Representation</h3>
+<h4 id="papers_asr_unsupervised_representation">Representation</h4>
 
-<h4 id="unsupervised_representation_highlevel">High-level Representation</h4>
+<h5 id="papers_asr_unsupervised_representation_highlevel">High-level Representation</h5>
 
 * Kamper H, Jansen A, King S, Goldwater S. [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.7106&rep=rep1&type=pdf) **SLT 2014**
 
-<h4 id="unsupervised_representation_lowlevel">Low-level Representation</h4>
+<h5 id="papers_asr_unsupervised_representation_lowlevel">Low-level Representation</h5>
 
 
 * Oord AV, Li Y, Vinyals O. [Representation learning with contrastive predictive coding](https://arxiv.org/pdf/1807.03748.pdf) **NIPS 2019**
@@ -95,13 +92,9 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 * Pascual S, Ravanelli M, Serrà J, Bonafonte A, Bengio Y. [Learning problem-agnostic speech representations from multiple self-supervised tasks](https://arxiv.org/pdf/1904.03416.pdf) **INTERSPEECH 2019**
 
 
-<h3 id="unsupervised_other">Other (maybe not speech, but still relevant)</h2>
-
-* Kawakami, K., Dyer, C. and Blunsom, P. [Learning to Discover, Ground and Use Words with Segmental Neural Language Models.](https://www.aclweb.org/anthology/P19-1645) **ACL 2019** * Kawakami, K., Dyer, C. and Blunsom, P. [Unsupervised Word Discovery with Segmental Neural Language Models](https://arxiv.org/pdf/1811.09353.pdf) **ACL 2019**
-
-<h2 id="supervised">Supervised</h2>
-<h3 id="supervised_am">Acoustic Modelling</h3>
-<h4 id="supervised_am_transformerlike">Transformer-like</h4>
+<h2 id="papers_asr_supervised">Supervised</h2>
+<h3 id="papers_asr_supervised_am">Acoustic Modelling</h3>
+<h4 id="papers_asr_supervised_am_transformerlike">Transformer-like</h4>
 
 * Dong L, Xu S, Xu B. [Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0005884.pdf) **ICASSP 2018**
 * Sperber, M., Niehues, J., Neubig, G., Stüker, S., Waibel, A. [Self-Attentional Acoustic Models](http://msperber.com/research/pdf/Sperber-Interspeech2018-SelfAttentionalAM.pdf) **INTERSPEECH 2018**
@@ -135,6 +128,21 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h3 id="zeroshot_keywordspotting">Keyword Spotting</h3>
 
 * Menon R, Kamper H, van der Westhuizen E, Quinn J, Niesler T. [Feature exploration for almost zero-resource ASR-free keyword spotting using a multilingual bottleneck extractor and correspondence autoencoders](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1665.pdf) **INTERSPEECH 2019**
+
+<h2 id="papers_st">Speech Translation</h2>
+
+* [Supervised](#papers_st_supervised)
+* [Unsupervised](#papers_st_unsupervised)
+
+
+<h2 id="papers_mt">Machine Translation</h2>
+
+
+<h2 id="papers_others">Others</h2>
+
+<h3 id="papers_other_unsupervised">Unsupervised</h3>
+
+* Kawakami, K., Dyer, C. and Blunsom, P. [Learning to Discover, Ground and Use Words with Segmental Neural Language Models.](https://www.aclweb.org/anthology/P19-1645) **ACL 2019** * Kawakami, K., Dyer, C. and Blunsom, P. [Unsupervised Word Discovery with Segmental Neural Language Models](https://arxiv.org/pdf/1811.09353.pdf) **ACL 2019**
 
 <h1 id="courses">Courses</h1>
 
