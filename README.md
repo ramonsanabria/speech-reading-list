@@ -131,7 +131,7 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 <h4 id="multimodal_other">Other (maybe not speech, but still relevant)</h2>
 
-* Shi H, Mao J, Gimpel K, Livescu K. [Visually Grounded Neural Syntax Acquisition](https://arxiv.org/pdf/1906.02890.pdf) **arxiv**
+* Shi H, Mao J, Gimpel K, Livescu K. [Visually Grounded Neural Syntax Acquisition](https://arxiv.org/pdf/1906.02890.pdf) **arxiv 2019**
 * Caglayan O, Madhyastha P, Specia L, Barrault L. [Probing the Need for Visual Context in Multimodal Machine Translation](https://arxiv.org/abs/1903.08678) **NAACL 2019**
 
 
