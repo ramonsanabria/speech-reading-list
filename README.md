@@ -34,11 +34,12 @@ This list is probably biased towards my current research directions. So, please,
 
 * [Supervised](#supervised)
 	* [Acoustic Modelling](#papers_asr_supervised_am)
-		* [Transforemer_like](#papers_asr_supervised_am_transformerlike)
+		* [Transformer_like](#papers_asr_supervised_am_transformerlike)
 		* [Pretraining](#papers_asr_supervised_am_pretraining)
 		* [Augmentation](#papers_asr_supervised_am_augmentation)
 	* [Language Modelling](#papers_asr_supervised_lm)
-		* [Transforemer_like](#papers_asr_supervised_lm_transformerlike)
+		* [Transformer_like](#papers_asr_supervised_lm_transformerlike)
+	* [End-to-End](#papers_asr_supervised_e2e)
 
 * [Zero-shot](#zeroshot)
 	* [Acoustic Modelling](#papers_asr_zeroshot_am)
@@ -111,9 +112,12 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 ](https://arxiv.org/pdf/1904.08779.pdf) **INTERSPEECH 2019**
 
 
-<h3 id="papers_asr_zeroshot">Zero-shot</h3>
+<h4 id="papers_asr_supervised_e2e">End-to-end</h4>
 
-<h4 id="papers_asr_zeroshot_am">Acoustic Modelling</h4>
+* Baskar MK, Burget L, Watanabe S, Karafiát M, Hori T, Černocký JH. [Promising Accurate Prefix Boosting for sequence-to-sequence ASR.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8682782) **ICASSP 2019**
+
+
+<h3 id="papers_asr_zeroshot">Zero-shot</h3>
 
 
 * Prasad M, van Esch D, Ritchie S, Mortensen JF. [Building Large-Vocabulary ASR Systems for Languages Without Any Audio Training Data](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1775.pdf)
@@ -123,6 +127,9 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h4 id="papers_asr_zeroshot_keywordspotting">Keyword Spotting</h4>
 
 * Menon R, Kamper H, van der Westhuizen E, Quinn J, Niesler T. [Feature exploration for almost zero-resource ASR-free keyword spotting using a multilingual bottleneck extractor and correspondence autoencoders](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1665.pdf) **INTERSPEECH 2019**
+
+
+
 
 <h2 id="papers_st">Speech Translation</h2>
 
@@ -142,11 +149,25 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 <h2 id="papers_others">Others</h2>
 
+* [Unsupervised](#papers_others_unsupervised)
+* [Computer Vision](#papers_others_cv)
+
+
 <h3 id="papers_other_unsupervised">Unsupervised</h3>
 
-* Kawakami, K., Dyer, C. and Blunsom, P. [Learning to Discover, Ground and Use Words with Segmental Neural Language Models.](https://www.aclweb.org/anthology/P19-1645) **ACL 2019** * Kawakami, K., Dyer, C. and Blunsom, P. [Unsupervised Word Discovery with Segmental Neural Language Models](https://arxiv.org/pdf/1811.09353.pdf) **ACL 2019**
+* Kawakami, K., Dyer, C. and Blunsom, P. [Learning to Discover, Ground and Use Words with Segmental Neural Language Models](https://www.aclweb.org/anthology/P19-1645) **ACL 2019** * Kawakami, K., Dyer, C. and Blunsom, P. [Unsupervised Word Discovery with Segmental Neural Language Models](https://arxiv.org/pdf/1811.09353.pdf) **ACL 2019**
+
+<h3 id="papers_other_cv">Computer Vision</h3>
+
+
+* Mahajan D, Girshick R, Ramanathan V, He K, Paluri M, Li Y, Bharambe A, van der Maaten L. [Exploring the limits of weakly supervised pretraining](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dhruv_Mahajan_Exploring_the_Limits_ECCV_2018_paper.pdf) **EECV 2018**
+* Patterson G, Hays J. [Coco attributes: Attributes for people, animals, and objects](http://cs.brown.edu/~gmpatter/pub_papers/coco_attributes.pdf)  **EECV 2016**
+
+(http://cs.brown.edu/~gmpatter/pub_papers/coco_attributes.pdf)
+
 
 <h1 id="courses">Courses</h1>
+
 
 * [The University of Edinburgh, AUTOMATIC SPEECH RECOGNITION](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
 
