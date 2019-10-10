@@ -89,7 +89,11 @@ This list is probably biased towards my current research directions. So, please,
 
 <h4 id="papers_asr_supervised_e2e">End-to-end</h4>
 
-* Baskar MK, Burget L, Watanabe S, Karafiát M, Hori T, Černocký JH. [Promising Accurate Prefix Boosting for sequence-to-sequence ASR.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8682782) **ICASSP 2019**
+* Baskar MK, Burget L, Watanabe S, Karafiát M, Hori T, Černocký JH. [Promising Accurate Prefix Boosting for sequence-to-sequence ASR](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8682782) **ICASSP 2019**
+* Collobert R, Hannun A, Synnaeve G. [A fully differentiable beam search decoder](https://arxiv.org/pdf/1902.06022.pdf) **arxiv 2019**
+
+
+
 
 
 <h3 id="papers_asr_zeroshot">Zero-shot</h3>
