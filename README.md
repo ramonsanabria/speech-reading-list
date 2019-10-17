@@ -9,6 +9,7 @@ This list is probably biased towards my current research directions. So, please,
 	* [Speech Processing and Recognition](#papers_asr)
 	* [Speech Translation](#papers_st)
 	* [Machine Translation](#papers_mt)
+	* [Machine Learning](#papers_ml)
 	* [Others](#papers_others)
 * [Tutorials](#tutorials)
 * [Courses](#courses)
@@ -45,7 +46,6 @@ This list is probably biased towards my current research directions. So, please,
 	* [Zero-shot](#papers_asr_multimodal_zeroshot)
 		* [Acoustic Modelling](#papers_asr_multimodal_zeroshot_am)
 		* [Key-word Spottig](#papers_asr_zeroshot_keywordspotting)
-
 
 
 <h3 id="papers_asr_unsupervised">Unsupervised</h3>
@@ -149,6 +149,9 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 * Chung YA, Weng WH, Tong S, Glass J. [Towards unsupervised speech-to-text translation](https://arxiv.org/pdf/1811.01307.pdf) **ICASSP 2019** 
 
+<h2 id="papers_ml">Machine Learning</h2>
+
+* Finn C, Abbeel P, Levine S. [Model-agnostic meta-learning for fast adaptation of deep networks](https://arxiv.org/pdf/1703.03400.pdf) **ICML 2017** 
 
 <h2 id="papers_others">Others</h2>
 
@@ -162,11 +165,8 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 <h3 id="papers_other_cv">Computer Vision</h3>
 
-
 * Mahajan D, Girshick R, Ramanathan V, He K, Paluri M, Li Y, Bharambe A, van der Maaten L. [Exploring the limits of weakly supervised pretraining](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dhruv_Mahajan_Exploring_the_Limits_ECCV_2018_paper.pdf) **EECV 2018**
 * Patterson G, Hays J. [Coco attributes: Attributes for people, animals, and objects](http://cs.brown.edu/~gmpatter/pub_papers/coco_attributes.pdf)  **EECV 2016**
-
-(http://cs.brown.edu/~gmpatter/pub_papers/coco_attributes.pdf)
 
 
 <h1 id="courses">Courses</h1>
