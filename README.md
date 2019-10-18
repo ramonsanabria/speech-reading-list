@@ -132,7 +132,6 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 <h4 id="multimodal_other">Other (maybe not speech, but still relevant)</h2>
 
 * Shi H, Mao J, Gimpel K, Livescu K. [Visually Grounded Neural Syntax Acquisition](https://arxiv.org/pdf/1906.02890.pdf) **arxiv 2019**
-* Caglayan O, Madhyastha P, Specia L, Barrault L. [Probing the Need for Visual Context in Multimodal Machine Translation](https://arxiv.org/abs/1903.08678) **NAACL 2019**
 
 
 <h2 id="papers_st">Speech Translation</h2>
@@ -151,7 +150,18 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 <h2 id="papers_mt">Machine Translation</h2>
 
-* Gu J, Wang Y, Chen Y, Cho K, Li VO. [Meta-learning for low-resource neural machine translation.](https://arxiv.org/pdf/1808.08437.pdf) [video](https://vimeo.com/306147573) **EMNLP 2018**
+
+* [Low-Resource](#papers_mt_lr)
+* [Multimodal](#papers_mt_mm)
+
+
+<h3 id="papers_mt_lr">Low-Resource</h3>
+
+* Gu J, Wang Y, Chen Y, Cho K, Li VO. [Meta-learning for low-resource neural machine translation](https://arxiv.org/pdf/1808.08437.pdf) [VIDEO](https://vimeo.com/306147573) **EMNLP 2018**
+
+<h3 id="papers_mt_mm">Multimodal</h3>
+
+* Caglayan O, Madhyastha P, Specia L, Barrault L. [Probing the Need for Visual Context in Multimodal Machine Translation](https://arxiv.org/abs/1903.08678) **NAACL 2019**
 
 <h2 id="papers_ml">Machine Learning</h2>
 
