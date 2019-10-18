@@ -149,6 +149,10 @@ in Low-Resource Semantic Speech Retrieval](https://arxiv.org/pdf/1904.10947.pdf)
 
 * Chung YA, Weng WH, Tong S, Glass J. [Towards unsupervised speech-to-text translation](https://arxiv.org/pdf/1811.01307.pdf) **ICASSP 2019** 
 
+<h2 id="papers_mt">Machine Translation</h2>
+
+* Gu J, Wang Y, Chen Y, Cho K, Li VO. [Meta-learning for low-resource neural machine translation.](https://arxiv.org/pdf/1808.08437.pdf) [video](https://vimeo.com/306147573) **EMNLP 2018**
+
 <h2 id="papers_ml">Machine Learning</h2>
 
 * Finn C, Abbeel P, Levine S. [Model-agnostic meta-learning for fast adaptation of deep networks](https://arxiv.org/pdf/1703.03400.pdf) **ICML 2017** 
