@@ -28,12 +28,12 @@ This list is probably biased towards my current research directions. So, please,
 
 * [Supervised](#papers_asr_supervised)
 	* [Acoustic Modelling](#papers_asr_supervised_am)
-		* [Transformer_like](#papers_asr_supervised_am_transformerlike)
 		* [Pretraining](#papers_asr_supervised_am_pretraining)
 		* [Augmentation](#papers_asr_supervised_am_augmentation)
 	* [Language Modelling](#papers_asr_supervised_lm)
 		* [Transformer_like](#papers_asr_supervised_lm_transformerlike)
 	* [End-to-End](#papers_asr_supervised_e2e)
+		* [Transformer_like](#papers_asr_supervised_e2e_transformerlike)
 
 * [Zero-shot](#papers_asr_zeroshot)
 	* [Acoustic Modelling](#papers_asr_zeroshot_am)
@@ -70,11 +70,6 @@ This list is probably biased towards my current research directions. So, please,
 
 <h3 id="papers_asr_supervised">Supervised</h3>
 <h4 id="papers_asr_supervised_am">Acoustic Modelling</h4>
-<h5 id="papers_asr_supervised_am_transformerlike">Transformer-like</h5>
-
-* Dong L, Xu S, Xu B. [Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0005884.pdf) **ICASSP 2018**
-* Sperber, M., Niehues, J., Neubig, G., Stüker, S., Waibel, A. [Self-Attentional Acoustic Models](http://msperber.com/research/pdf/Sperber-Interspeech2018-SelfAttentionalAM.pdf) **INTERSPEECH 2018**
-* Zhou S, Dong L, Xu S, Xu B. [Syllable-Based Sequence-to-Sequence Speech Recognition with the Transformer in Mandarin Chinese](https://arxiv.org/pdf/1804.10752.pdf) **INTERSPEECH 2018**
 
 <h4 id="papers_asr_supervised_am_pretraining">Pretraining</h4>
 
@@ -93,6 +88,12 @@ This list is probably biased towards my current research directions. So, please,
 * Collobert R, Hannun A, Synnaeve G. [A fully differentiable beam search decoder](https://arxiv.org/pdf/1902.06022.pdf) **arxiv 2019**
 
 
+<h5 id="papers_asr_supervised_e2e_transformerlike">Transformer-like</h5>
+
+* Zeyer A, Bahar P, Irie K, Schlüter R, Ney H. [A Comprison Of Transformer and LSTM Encoder Decoder Models for ASR](https://www-i6.informatik.rwth-aachen.de/publications/download/1119/ZeyerAlbertBaharParniaIrieKazukiSchl%FCterRalfNeyHermann--AcomparisonofTransformerLSTMencoderdecodermodelsforASR--2019.pdf)**ASRU 2019**
+* Dong L, Xu S, Xu B. [Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0005884.pdf) **ICASSP 2018**
+* Sperber, M., Niehues, J., Neubig, G., Stüker, S., Waibel, A. [Self-Attentional Acoustic Models](http://msperber.com/research/pdf/Sperber-Interspeech2018-SelfAttentionalAM.pdf) **INTERSPEECH 2018**
+* Zhou S, Dong L, Xu S, Xu B. [Syllable-Based Sequence-to-Sequence Speech Recognition with the Transformer in Mandarin Chinese](https://arxiv.org/pdf/1804.10752.pdf) **INTERSPEECH 2018**
 
 
 
